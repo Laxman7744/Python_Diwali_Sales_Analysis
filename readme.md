@@ -110,10 +110,15 @@ I share my journey:
 ## 📊 Visualizations Showcase
 
 - All plots saved under `images/`:
-  - `state_orders_distribution.png`: Orders by state
-  - `age_gender_spend_heatmap.png`: Spending patterns by age & gender
-  - `top_products_bar.png`: Best-selling products
-  - `sales_trend_time_series.png`: Sales over time
+-  - `state_orders_distribution.png`: Orders by state
+    <img width="1144" height="394" alt="image" src="https://github.com/user-attachments/assets/20f4db97-698c-4f90-a19a-88ab1babc977" />
+
+  - `age_gender_spend_countplot.png`: Spending patterns by age & gender
+    <img width="824" height="561" alt="image" src="https://github.com/user-attachments/assets/e6aa87bf-505c-40e5-a4c2-ba38579886c1" />
+
+  - `top_products_countplot.png`: Best-selling products
+    <img width="1141" height="464" alt="image" src="https://github.com/user-attachments/assets/f1e5f677-9987-42c3-a895-206aedf792b4" />
+  - 
 - Interactive dashboard (optional) can be built with Streamlit or Power BI for stakeholders. 🚀
 
 ## 🚀 Next Steps & Innovations
