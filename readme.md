@@ -48,7 +48,7 @@ pip install -r requirements.txt
    - Load and inspect data
    - Clean & preprocess
    - Perform EDA and generate visuals
-   - Interpret and document insights 📊
+   - Interpret and document insights 📊    
 
 ## 🔄 Data Cleaning & Preprocessing
 
